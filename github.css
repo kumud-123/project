@@ -1,0 +1,49 @@
+.vutt{ 
+height: 60px;
+
+    
+	text-align: center;
+	color: white;
+	background-color: black;
+}
+h1{
+    color: red;
+    
+
+}
+p{
+	margin-top: 20px;
+}   
+
+
+
+
+nav{ 
+
+	text-align: center;
+	margin-left: 330px;
+}
+.barut{
+
+   text-align: center;
+	width: 50%;
+	height: 80px;
+margin-top: 20px;
+color: red;
+background-color: green;
+text-align: center;
+
+
+}
+
+
+footer{
+	 background-color: black;
+}
+h4{
+	color: white;
+	text-align: center;
+}
+li{
+	margin-right: 310px;
+}
